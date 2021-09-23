@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "646679942192",
+    "firebase_url": "https://miifresh-2bf35-default-rtdb.firebaseio.com",
+    "project_id": "miifresh-2bf35",
+    "storage_bucket": "miifresh-2bf35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646679942192:android:01118f805de96243c509f5",
+        "android_client_info": {
+          "package_name": "com.miifresh.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646679942192-889hap10vpnchnne177fp4orosfge1kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqaTkB1euXGd7QigaWv7-C8FnIaIR7f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646679942192-889hap10vpnchnne177fp4orosfge1kn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646679942192-48vfut8bqbvc6kup6q9od5jmoiqk03ku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.miifresh.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646679942192:android:ab06c666ca9733ecc509f5",
+        "android_client_info": {
+          "package_name": "com.miifresh.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646679942192-f4ro5fbl6pg1qbh8sjr4jb1c13vl29ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miifresh.delivery",
+            "certificate_hash": "2ad24d8152f33caa46d023cd29f07157286e3f39"
+          }
+        },
+        {
+          "client_id": "646679942192-889hap10vpnchnne177fp4orosfge1kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqaTkB1euXGd7QigaWv7-C8FnIaIR7f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646679942192-889hap10vpnchnne177fp4orosfge1kn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646679942192-48vfut8bqbvc6kup6q9od5jmoiqk03ku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.miifresh.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

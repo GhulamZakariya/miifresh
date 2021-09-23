@@ -1,0 +1,38 @@
+*****	Google Account   *****
+email: 		miifreshofficework@gmail.com
+password: 	miifresh@office
+given number  03174398354
+
+
+***** 			*****
+ **Social Auth**
+
+
+
+**	Google Account   **
+Email: 		miifreshofficework@gmail.com
+Password: 	miifresh@office
+Given number  03174398354
+
+Google app id
+393790401790-eh2gcscnvi6f9j89dvkfmite0sitlcq0.apps.googleusercontent.com
+
+Google App Secret
+f3z-mxQm9aLHB8bTnr7n5K_8
+
+
+
+
+** 	Facebook Account  **
+Email:		microaegisit@gmail.com
+Password:	M@!t_451
+Facebook App id
+200459065480698
+
+Facebook App secret
+9523547f3519dd784ae989cfd4c6373b
+
+
+
+81:bc:aa:92:0d:73:d7:a1:ff:04:af:de:2a:da:5d:49:74:08:14:c8:7a:aa:1d:58:9a:69:e4:de:35:0d:f6:65
+

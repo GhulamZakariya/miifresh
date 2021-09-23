@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>646679942192-48vfut8bqbvc6kup6q9od5jmoiqk03ku.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.646679942192-48vfut8bqbvc6kup6q9od5jmoiqk03ku</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>646679942192-dtemtmpr6c0l2i3g4j6p7jiige0t1pkk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1t7D-pkOfwgF_Z8AN6v_c57NJby3SAs8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>646679942192</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.miifresh.customer</string>
+	<key>PROJECT_ID</key>
+	<string>miifresh-2bf35</string>
+	<key>STORAGE_BUCKET</key>
+	<string>miifresh-2bf35.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:646679942192:ios:a319b02410d23297c509f5</string>
+</dict>
+</plist>
